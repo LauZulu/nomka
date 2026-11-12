@@ -6,7 +6,9 @@ __pycache__/
 .DS_Store
 
 # Salidas generadas
-resultados/
+resultados/*
+# Excepción: matrices de distancia de los experimentos HMP (pequeñas, ~340 KB)
+!resultados/hmp/
 
 # Datos pesados (HMP y similares): no versionar
 *.fastq

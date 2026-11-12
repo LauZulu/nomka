@@ -1,0 +1,13 @@
+k-mers sólidos distintos (todas las muestras): 2878442
+Familias: 2847541 (con variantes: 24725; la más grande tiene 30 k-mers)
+Muestra	KmersSolidos	Familias	Total
+STOOL1	1028267	1023426	2414852
+TONGUE1	377257	373681	900414
+VAG1	6833	6469	40096
+STOOL2	554861	552764	1282330
+TONGUE2	447141	443922	1105161
+VAG2	24567	19529	428952
+STOOL3	173266	171989	401361
+TONGUE3	348060	346017	777245
+VAG3	2506	1752	37989
+Matrices escritas con el prefijo resultados/hmp/Nomka_k31_n9_r1
