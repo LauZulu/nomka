@@ -4,6 +4,8 @@ Proyecto de BCOM4006 (Algoritmos en Biología Computacional, 2026-2) sobre Simka
 (Benoit et al., 2016). Se calculan distancias Bray-Curtis y Jaccard entre muestras
 metagenómicas a partir de k-mers.
 
+Informe: [Entrega3_Simka_Nomka_Laura_Zuluaga.pdf](Entrega3_Simka_Nomka_Laura_Zuluaga.pdf)
+
 - `src/kmer_distances.py`: una tabla hash por muestra; da lo mismo que Simka.
 - `src/Nomka.py`: igual, pero junta los k-mers que difieren en una letra (SNP).
 - `src/Simka.py`: versión en Python de las fases de Simka, para comprobar.
