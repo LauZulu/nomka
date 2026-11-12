@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Salidas generadas
+resultados/
+
+# Datos pesados (HMP y similares): no versionar
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.fasta.gz
+*.sra
+datos_hmp/
+
+# Documentos de Word temporales
+~$*.docx
+
+# Entorno de Python solo para las gráficas (matplotlib, scipy)
+.venv/

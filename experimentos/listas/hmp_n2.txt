@@ -1,0 +1,2 @@
+STOOL1: ../../datos_hmp/STOOL1.fastq
+TONGUE1: ../../datos_hmp/TONGUE1.fastq
