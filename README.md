@@ -61,6 +61,7 @@ python3 -m venv .venv && .venv/bin/pip install matplotlib scipy
 
 Results already obtained:
 
+- `resultados/hmp/`: output matrices of every run (`<program>_k<k>_n<N>_r<rep>_{braycurtis,jaccard}.csv`) and their logs.
 - `experimentos/tablas/`:
   - `mediciones.csv`: one row per run.
   - `resumen.md`: cost and quality summary.
